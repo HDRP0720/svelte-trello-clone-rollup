@@ -1,10 +1,10 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/31df0409-b7fe-4254-852f-1511c1a2b34b/deploy-status)](https://app.netlify.com/sites/hdrp0720-trello-rollup/deploys)
 
 # Svelte Trello clone 프로젝트
 
 [Svelte.js](https://svelte.dev)를 사용하는 Trello 클론 프로젝트입니다.<br>
 
-<u>**[DEMO]()**</u>
+<u>**[DEMO](https://hdrp0720-trello-rollup.netlify.app/)**</u>
 
 ![demo gif](./src/images/svelte-trello-example.gif)
 
